@@ -1,0 +1,12 @@
+*.o
+bin/
+obj/
+data/
+*.raw
+*.yuyv
+*.jpg
+*.png
+*.dng
+*.yuv
+*.rgb
+*.tar.gz
